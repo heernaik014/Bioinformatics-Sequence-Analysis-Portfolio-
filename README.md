@@ -1,2 +1,2 @@
 # Bioinformatics-Sequence-Analysis-Portfolio-
-Collection of 13 Bioinformatics Practicals covering NCBI, GenBank, BLAST and Sequence Analysis`
+Collection of 14 Bioinformatics Practicals covering NCBI, GenBank, BLAST and Sequence Analysis`
