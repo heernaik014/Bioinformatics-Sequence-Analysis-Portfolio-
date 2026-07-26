@@ -27,7 +27,7 @@ The complete genome sequence of E. coli K-12 MG1655 was successfully retrieved f
 AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAG
 
 Retrieved Record
-Figure 1. Screenshot of NCBI record
+Figure 1. of NCBI record
 
 ## Key Finding
 The retrieved record corresponds to a circular bacterial genome of 4,641,652 bp with a GC content of 50.8%. The FASTA sequence can be used as input for downstream bioinformatics analyses such as genome annotation and gene prediction.
