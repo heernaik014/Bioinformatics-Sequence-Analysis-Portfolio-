@@ -31,7 +31,7 @@ The complete mitochondrial genome sequence of *Homo sapiens* was successfully id
 
 ### Retrieved Record
 
-[INSERT YOUR NCBI SCREENSHOT HERE]
+
 
 *Figure 1. NCBI record for the complete human mitochondrial genome.*
 
