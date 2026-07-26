@@ -23,9 +23,10 @@ Retrieve the complete genome sequence of *Escherichia coli* K-12 strain MG1655 f
 ## Result
 The complete genome sequence of *E. coli* K-12 MG1655 was successfully retrieved from NCBI GenBank in FASTA format.
 
-### Retrieved Record
+>NC_000913.3 Escherichia coli str. K-12 substr. MG1655
+AGCTTTTCATTCTGACTGCAACGGGCAATATGTCTCTGTGTGGATTAAAAAAAGAGTGTCTGATAGCAG
 
-[INSERT YOUR NCBI SCREENSHOT HERE]
+### Retrieved Record
 
 *Figure 1. NCBI GenBank record for the complete genome of E. coli K-12 MG1655.*
 
