@@ -1,4 +1,4 @@
-# Retrieval of E. coli K-12 Complete Genome from NCBI
+#Retrieval of the E. coli K-12 MG1655 Complete Genome from NCBI GenBank
 
 ## Task
 Retrieve the complete genome sequence of *Escherichia coli* K-12 strain MG1655 from the NCBI GenBank nucleotide database and obtain the sequence in FASTA format.
