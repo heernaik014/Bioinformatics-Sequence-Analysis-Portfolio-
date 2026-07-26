@@ -1,4 +1,4 @@
-# TBLASTN Analysis - Hemoglobin Beta (HBB)
+# tBLASTN Analysis - Hemoglobin Beta (HBB)
 
 ## Task
 Perform TBLASTN analysis of a protein sequence to find coding nucleotide sequence.
