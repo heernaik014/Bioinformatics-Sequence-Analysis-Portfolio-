@@ -29,9 +29,7 @@ Retrieve the sequence of the human hemoglobin beta (HBB) gene from the NCBI Nucl
 
 The human hemoglobin beta (HBB) gene sequence was successfully identified in the NCBI Nucleotide database.
 
-### Retrieved Record
-
-[INSERT YOUR NCBI SCREENSHOT HERE]
+### Retrieved Recor
 
 *Figure 1. NCBI Gene record for the human HBB (hemoglobin subunit beta) gene.*
 
