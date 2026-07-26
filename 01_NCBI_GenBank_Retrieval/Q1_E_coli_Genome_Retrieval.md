@@ -1,32 +1,40 @@
-# Q1 - Retrieval of E. coli K-12 Complete Genome from NCBI
+# Retrieval of E. coli K-12 Complete Genome from NCBI
 
-### Aim:
-To retrieve the complete genome sequence of Escherichia coli K-12 strain from NCBI GenBank.
+## Task
+Retrieve the complete genome sequence of *Escherichia coli* K-12 strain MG1655 from the NCBI GenBank nucleotide database and obtain the sequence in FASTA format.
 
-### Objective:
-To learn the procedure for retrieving a complete bacterial genome from NCBI for genomic analysis.
+## Database
+- NCBI GenBank
+- NCBI Nucleotide Database
 
-### Theory:
-E. coli K-12 MG1655 is the most studied model organism. Its complete genome is available in NCBI GenBank under Accession No. NC_000913.3 / U00096.3. The genome is ~4.6 million base pairs (4,641,652 bp) and contains ~4000+ genes. It is used as a reference for all molecular biology studies.
+## Sequence Information
+- **Organism:** *Escherichia coli* str. K-12 substr. MG1655
+- **Accession Number:** NC_000913.3
+- **Sequence Length:** 4,641,652 bp
+- **Genome:** Complete circular genome
+- **GC Content:** 50.8%
 
-### Tools Used:
-- NCBI GenBank Database
-- Nucleotide Database
+## Workflow
+1. Searched the NCBI Nucleotide database for the *E. coli* K-12 MG1655 complete genome.
+2. Selected the corresponding GenBank record (NC_000913.3).
+3. Examined the sequence information and genome characteristics.
+4. Retrieved the complete genome sequence in FASTA format.
 
-### Procedure:
-1. Opened NCBI website (ncbi.nlm.nih.gov)
-2. Selected Nucleotide database
-3. Searched "Escherichia coli K-12 complete genome"
-4. Selected result "E. coli str. K-12 substr. MG1655, complete genome"
-5. Noted Accession No: NC_000913.3
-6. Checked sequence length: 4,641,652 bp
-7. Clicked Send to -> File -> FASTA format to retrieve sequence
+## Result
+The complete genome sequence of *E. coli* K-12 MG1655 was successfully retrieved from NCBI GenBank in FASTA format.
 
-### Observation:
-Successfully retrieved E. coli K-12 genome. The FASTA header was >NC_000913.3 Escherichia coli str. K-12 substr. MG1655. The genome is circular, GC content 50.8%.
+### Retrieved Record
 
-### Result:
-The complete genome of E. coli K-12 (NC_000913.3) was successfully retrieved in FASTA format from NCBI GenBank.
+[INSERT YOUR NCBI SCREENSHOT HERE]
 
-### Conclusion:
-We learned how to retrieve a complete bacterial genome, which is the first step for any bioinformatics analysis like gene prediction and annotation.
+*Figure 1. NCBI GenBank record for the complete genome of E. coli K-12 MG1655.*
+
+## Key Finding
+The retrieved record corresponds to a circular bacterial genome of 4,641,652 bp with a GC content of 50.8%. The FASTA sequence can be used as input for downstream bioinformatics analyses such as genome annotation and gene prediction.
+
+## Skills Demonstrated
+- NCBI GenBank database navigation
+- Nucleotide sequence retrieval
+- Accession number identification
+- FASTA sequence retrieval
+- Basic genome sequence interpretation 
