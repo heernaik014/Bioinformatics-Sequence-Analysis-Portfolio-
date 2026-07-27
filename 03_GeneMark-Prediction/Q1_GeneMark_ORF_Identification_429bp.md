@@ -39,15 +39,16 @@ Matrix order: 4
 
 #### List of Open reading frames predicted as CDSs, shown with alternate starts (regions from start to stop codon w/ coding function >0.50)
 
-| Left end | Right end | DNA Strand | Coding Frame | Avg Prob | Start Prob |
-| :--- | :--- | :--- | :--- |
-| 1 | 429 | direct | fr 1 | 0.83 | ---- |
-| 4 | 429 | direct | fr 1 | 0.83 | ---- |
-| 97 | 429 | direct | fr 1 | 0.81 | 0.12 |
+| Left end | Right end | DNA Strand |  0.12 |
+
+**ORFs Predicted (Start to Stop):**
+- **ORF 1:** 1 to 429 | Strand: direct | Frame: fr 1 | Avg Prob: 0.83
+- **ORF 2:** 4 to 429 | Strand: direct | Frame: fr 1 | Avg Prob: 0.83
+- **ORF 3:** 97 to 429 | Strand: direct | Frame: fr 1 | Avg Prob: 0.81
 
 #### List of Regions of interest (regions from stop to stop codon w/ a signal in between)
 
-| LEnd | REnd | Strand | Frame |
+LEnd | REnd | Strand | Frame |
 | :--- | :--- | :--- | :--- |
 | 1 | 429 | direct | fr 1 |
 
