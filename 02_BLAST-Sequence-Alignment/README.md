@@ -15,19 +15,17 @@ Practical understanding of using BLAST for similarity search and interpreting al
 
 # 02 - BLAST Sequence Alignment
 
-## Q1. BLASTN - Nucleotide Sequence Analysis
-**Result:** [yaha 2 line me result likh dena]
-![Q1 Screenshot](images_BLASTN_Nucleotide_Sequence_Analysis..png)
+#### 1. BLASTX - Protein Sequence Analysis
+![BLASTX](images_BLASTX_Protein_Sequence_Analysis..png)
 
-## Q2. BLASTP - Protein Sequence Analysis
-**Result:**
-![Q2 Screenshot](images_BLASTP_Protein_Sequence_Analysis..png)
+#### 2. tBLASTn - Hemoglobin Beta HBB
+![tBLASTn](images_tBLASTn_Hemoglobin_Beta_HBB..png)
 
-## Q3. BLASTX - Protein Sequence Analysis
-![Q3 Screenshot](images_BLASTX_Protein_Sequence_Analysis..png)
+#### 3. TBLASTN - TP53 Tumor Suppressor
+![TBLASTN](images_TBLASTN_TP53_Tumor_Suppressor..jpeg)
 
-## Q4. tBLASTn - HBB Gene
-![Q4 Screenshot](images_tBLASTn_Hemoglobin_Beta_HBB..png)
+#### 4. BLASTN - Nucleotide Sequence
+![BLASTN](images_BLASTN_Nucleotide_Sequence_Analysis..png)
 
-## Q5. TBLASTN - TP53
-![Q5 Screenshot](images_TBLASTN_TP53_Tumor_Suppressor.jpeg)
+#### 5. BLASTP - Protein Sequence
+![BLASTP](images_BLASTP_Protein_Sequence_Analysis..png)
