@@ -1,6 +1,6 @@
 # Bioinformatics Sequence Analysis Portfolio
 
-A curated collection of 13 bioinformatics practicals focused on sequence retrieval, alignment, and gene prediction.
+A curated collection of 14 bioinformatics Analyses focused on sequence retrieval, alignment, and gene prediction.
 
 This repository documents my independent hands-on work with core bioinformatics tools and databases. While these topics were introduced as part of our curriculum, all practicals, including graphical representations and detailed analysis, were re-performed independently as part of self-directed learning to deepen my technical proficiency in bioinformatics.
 
