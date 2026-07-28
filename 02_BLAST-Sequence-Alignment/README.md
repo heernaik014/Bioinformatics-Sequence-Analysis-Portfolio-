@@ -13,13 +13,21 @@ This module covers local sequence alignment and homology search using BLAST.
 ### Skills Gained
 Practical understanding of using BLAST for similarity search and interpreting alignment results. 
 
-## 📸 BLAST Results - Screenshots
+# 02 - BLAST Sequence Alignment
 
-### 1. BLASTN Result
-![BLASTN](images_BLASTN_Nucleotide_Sequence_Analysis..png)
+## Q1. BLASTN - Nucleotide Sequence Analysis
+**Result:** [yaha 2 line me result likh dena]
+![Q1 Screenshot](images_BLASTN_Nucleotide_Sequence_Analysis..png)
 
-### 2. BLASTP Result
-![BLASTP](images_BLASTP_Protein_Sequence_Analysis..png)
+## Q2. BLASTP - Protein Sequence Analysis
+**Result:**
+![Q2 Screenshot](images_BLASTP_Protein_Sequence_Analysis..png)
 
-### 3. BLASTX Result
-![BLASTX](images_BLASTX_Protein_Sequence_Analysis..png)
+## Q3. BLASTX - Protein Sequence Analysis
+![Q3 Screenshot](images_BLASTX_Protein_Sequence_Analysis..png)
+
+## Q4. tBLASTn - HBB Gene
+![Q4 Screenshot](images_tBLASTn_Hemoglobin_Beta_HBB..png)
+
+## Q5. TBLASTN - TP53
+![Q5 Screenshot](images_TBLASTN_TP53_Tumor_Suppressor.jpeg)
