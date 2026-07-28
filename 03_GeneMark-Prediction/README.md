@@ -14,9 +14,8 @@ This module deals with computational gene prediction in prokaryotic and eukaryot
 Basic understanding of gene prediction workflow and analysis of predicted gene structures.
 
 ### GeneMark Prediction Results
-
 #### Q1. ORF Identification - 42
-![Q1 ORF](images_GeneMark_ORF_Identification_Q1_..png)
+![Q1 ORF](images_GeneMark_ORF_Identification_Q1_.png)
 
 #### Q2. Start-Stop Codon - 475bp
 ![Q2 Start Stop](images_GeneMark_Start_Stop_475bp_Q2.png)
