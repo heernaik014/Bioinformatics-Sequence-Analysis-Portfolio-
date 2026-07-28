@@ -21,7 +21,8 @@ Performed BLASTN analysis of a given nucleotide sequence against the NCBI Nucleo
 
 The nucleotide sequence was searched against the NCBI Nucleotide Database using BLASTN. Significant hits were evaluated based on sequence identity, E-value, query coverage, and pairwise alignment.
 
-## Result
+## Result.
+<img width="1920" height="928" alt="2026-07-18 (4)" src="https://github.com/user-attachments/assets/0b52b2e7-c858-4ebf-bfe1-d756951243a8" />
 
 ### Retrieved / Analysis Output
 
